@@ -1,0 +1,1187 @@
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\AmazonApi.exe
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\AmazonApi.deps.json
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\AmazonApi.runtimeconfig.json
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\AmazonApi.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\AmazonApi.pdb
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ITI.ElectroDev.Models.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\bin\Debug\net6.0\ITI.ElectroDev.Models.pdb
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.AssemblyReference.cache
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.AssemblyInfoInputs.cache
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.AssemblyInfo.cs
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.CoreCompileInputs.cache
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\scopedcss\bundle\AmazonApi.styles.css
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.CopyComplete
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\refint\AmazonApi.dll
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.pdb
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\AmazonApi.genruntimeconfig.cache
+C:\Users\Mariam Ayman\Desktop\FinalApi\AmazonApi\obj\Debug\net6.0\ref\AmazonApi.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\appsettings.Development.json
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\appsettings.json
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\AmazonApi.exe
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\AmazonApi.deps.json
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\AmazonApi.runtimeconfig.json
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\AmazonApi.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\AmazonApi.pdb
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\mscorlib.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\netstandard.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.AppContext.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Buffers.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Collections.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Configuration.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Console.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Data.Common.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Data.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Drawing.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Linq.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Memory.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Http.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Mail.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Ping.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Requests.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Security.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Numerics.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ObjectModel.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Claims.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Principal.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Text.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Transactions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.ValueTuple.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Web.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Windows.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\refs\WindowsBase.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Castle.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Humanizer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\JetBrains.Annotations.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\X.PagedList.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ITI.ElectroDev.Models.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\bin\Debug\net6.0\ITI.ElectroDev.Models.pdb
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.AssemblyReference.cache
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.AssemblyInfoInputs.cache
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.AssemblyInfo.cs
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.CoreCompileInputs.cache
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.MvcApplicationPartsAssemblyInfo.cs
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.MvcApplicationPartsAssemblyInfo.cache
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\staticwebassets.build.json
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\staticwebassets.development.json
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\scopedcss\bundle\AmazonApi.styles.css
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.CopyComplete
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\refint\AmazonApi.dll
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.pdb
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\AmazonApi.genruntimeconfig.cache
+I:\ItI\iti 2022\Final Project Amazon-API\AmazonApi\obj\Debug\net6.0\ref\AmazonApi.dll
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.AssemblyReference.cache
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.AssemblyInfoInputs.cache
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.AssemblyInfo.cs
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.CoreCompileInputs.cache
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\appsettings.json
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\AmazonApi.exe
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\AmazonApi.deps.json
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\AmazonApi.runtimeconfig.json
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\AmazonApi.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\AmazonApi.pdb
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\netstandard.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Console.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Data.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Web.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Castle.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Humanizer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\JetBrains.Annotations.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\X.PagedList.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ITI.ElectroDev.Models.dll
+D:\Amazon-Api-Last-Version\AmazonApi\bin\Debug\net6.0\ITI.ElectroDev.Models.pdb
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets\msbuild.AmazonApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazonApi.props
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazonApi.props
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazonApi.props
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\scopedcss\bundle\AmazonApi.styles.css
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.csproj.CopyComplete
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.dll
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\refint\AmazonApi.dll
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.pdb
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\AmazonApi.genruntimeconfig.cache
+D:\Amazon-Api-Last-Version\AmazonApi\obj\Debug\net6.0\ref\AmazonApi.dll
